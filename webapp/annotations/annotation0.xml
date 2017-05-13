@@ -26,7 +26,7 @@
 	</edmx:Reference>
 	<edmx:DataServices>
 		<Schema xmlns="http://docs.oasis-open.org/odata/ns/edm">
-			<Annotations Target="ZSTS_SRV.SOLUTIONCUST">
+			<Annotations Target="ZSTS_SRV.SOLUTION">
 				<Annotation Term="UI.LineItem">
 					<Collection>
 						<Record Type="UI.DataField">
